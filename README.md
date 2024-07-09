@@ -1,7 +1,11 @@
+## Hi there 👋
+
+I'm qwe12345678, a student from China.
+
 [![QQ](https://img.shields.io/badge/QQ:3025385472-1793D1?logo=qq&logoColor=fff&style=for-the-badge)](https://qm.qq.com/q/f8qLVy6qas)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow:qwe12345678-1793D1?logo=stackoverflow&logoColor=fff&style=for-the-badge)](https://stackoverflow.com/users/25950728/qwe12345678)
 ![Discord](https://img.shields.io/badge/Discord:qwe12345678-1793D1?logo=discord&logoColor=fff&style=for-the-badge)
-![酷安](https://img.shields.io/badge/酷安-1793D1?logo=coolapk&logoColor=fff&style=for-the-badge)
+![酷安:qwe12345678](https://img.shields.io/badge/酷安:qwe12345678-1793D1?logo=coolapk&logoColor=fff&style=for-the-badge)
 ## Workspace
 [![i3](https://img.shields.io/badge/i3wm-52C0FF?style=for-the-badge&logo=i3&logoColor=white)](https://i3wm.org/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-1793D1?logo=manjaro&logoColor=fff&style=for-the-badge)](https://manjaro.org/)
